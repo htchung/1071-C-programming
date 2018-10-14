@@ -2,7 +2,13 @@
 
 ## Week 1
 - [第一個C程式 Welcome to C Programmign](https://github.com/htchung/1071-C-programming/tree/master/w01/welcome.cpp)
-- [攝氏華式溫度轉換](https://github.com/htchung/1071-C-programming/tree/master/w01/tempconvert.cpp)
+- [攝氏華式溫度轉換](https://github.com/htchung/1071-C-programming/tree/master/w01/tempconvert.cpp)```
+Enter temperature in C: 20.5
+20.5 C = 68.9 F
+
+Enter temperature in F: 80.5
+80.5 F = 26.9 C
+```
 - [尋找二元一次方程式的根](https://github.com/htchung/1071-C-programming/tree/master/w01/equations.cpp)
 
 ## Week 2
@@ -15,5 +21,5 @@
 * sum.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc0MDk3NDAsMTI3NTM1NDk1Nl19
+eyJoaXN0b3J5IjpbLTYxMDI2Mzc2MSwxMjc1MzU0OTU2XX0=
 -->
