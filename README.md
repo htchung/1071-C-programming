@@ -2,8 +2,8 @@
 
 ## Week 1
 - [第一個C程式 Welcome to C Programmign](https://github.com/htchung/1071-C-programming/tree/master/w01/welcome.cpp)
-- [tempconvert.cpp
-- equations.cpp
+- [攝氏華式溫度轉換](https://github.com/htchung/1071-C-programming/tree/master/w01/tempconvert.cpp)
+- [尋找二元一次方程式的根](https://github.com/htchung/1071-C-programming/tree/master/w01/equations.cpp)
 
 ## Week 2
 * leap.cpp
@@ -15,5 +15,5 @@
 * sum.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjAxNzgzMSwxMjc1MzU0OTU2XX0=
+eyJoaXN0b3J5IjpbLTEyMzc0MDk3NDAsMTI3NTM1NDk1Nl19
 -->
