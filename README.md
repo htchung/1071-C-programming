@@ -1,8 +1,8 @@
 # 1071-C-programming
 
 ## Week 1
-- [welcome.cpp](https://github.com/htchung/1071-C-programming/tree/master/w01/welcome.cpp)
-- tempconvert.cpp
+- [第一個C程式 Welcome to C Programmign](https://github.com/htchung/1071-C-programming/tree/master/w01/welcome.cpp)
+- [tempconvert.cpp
 - equations.cpp
 
 ## Week 2
@@ -15,5 +15,5 @@
 * sum.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTM1NDk1Nl19
+eyJoaXN0b3J5IjpbLTI5MjAxNzgzMSwxMjc1MzU0OTU2XX0=
 -->
