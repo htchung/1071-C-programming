@@ -1,9 +1,9 @@
 # 1071-C-programming
 
-Week 1
-* welcome.cpp
-* tempconvert.cpp
-* equations.cpp
+### Week 1
+- welcome.cpp
+- tempconvert.cpp
+- equations.cpp
 
 Week 2
 * leap.cpp
@@ -14,3 +14,6 @@ Week 4
 * seconds_convert_while.cpp
 * sum.cpp
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI3MTIyMDQ3Nl19
+-->
