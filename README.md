@@ -11,7 +11,7 @@ Enter temperature in F: 80.5
 ````
 - [尋找二元一次方程式的根](https://github.com/htchung/1071-C-programming/tree/master/w01/equations.cpp)
 
-### Week 2
+## Week 2
 * leap.cpp
 * seconds_convert.cpp
 
@@ -21,6 +21,6 @@ Enter temperature in F: 80.5
 * sum.cpp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI5NzMzOTgyLDE3MjA1MjQyMjEsMTI3NT
-M1NDk1Nl19
+eyJoaXN0b3J5IjpbMTcyMDUyNDIyMSwxNzIwNTI0MjIxLDEyNz
+UzNTQ5NTZdfQ==
 -->
